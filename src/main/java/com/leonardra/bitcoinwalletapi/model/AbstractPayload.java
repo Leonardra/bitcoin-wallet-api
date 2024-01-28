@@ -6,7 +6,6 @@ import lombok.Data;
 
 @Data
 public class AbstractPayload {
-
     @JsonProperty("jsonrpc")
     private String jsonRPCVersion;
     private String id;

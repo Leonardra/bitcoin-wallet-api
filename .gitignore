@@ -6,6 +6,8 @@ target/
 .idea/
 .mvn/
 
+/src/main/resources/application-uat.properties
+
 ### STS ###
 .apt_generated
 .classpath
